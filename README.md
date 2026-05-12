@@ -25,13 +25,13 @@ Plataformas suportadas: **Windows 10/11** (x64)
 1. Baixe o arquivo `Sales-Coach-Vinteo-X.X.X-portable.exe` da última release
 2. Dê duplo clique pra rodar (não precisa instalação)
 3. No primeiro uso, o Windows pode mostrar "Editor desconhecido" — clique em **Mais informações → Executar mesmo assim**
-4. Faça login com sua conta Vinteo em [app.vinteo.com.br](https://app.vinteo.com.br)
+4. Faça login com sua conta Vinteo em [https://vinteo-sales-coach.lovable.app/](https://vinteo-sales-coach.lovable.app/)
 5. Cole sua chave de licença no campo de ativação
 6. Pronto pra coachear
 
 ## Como obter acesso
 
-Acesso BETA gratuito por enquanto. Cadastre-se em **[app.vinteo.com.br](https://app.vinteo.com.br)** e receba sua chave de licença por email.
+Acesso BETA gratuito por enquanto. Cadastre-se em **[https://vinteo-sales-coach.lovable.app/](https://vinteo-sales-coach.lovable.app/)** e receba sua chave de licença por email.
 
 ## Suporte
 
